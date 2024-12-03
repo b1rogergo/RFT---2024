@@ -1,7 +1,5 @@
-RFT Beadandó Nyíregyházi Egyetem 2024 Q4
-
-Munkások elnevezésű csoport.
-
-Tagok: Biró Róbert Zsolt, Biró Gergő
+RFT Beadandó - Nyíregyházi Egyetem - 2024 Q4
 
 A projekt megnevezése: Online társkereső
+Csoport: Munkások
+Tagok: Biró Róbert Zsolt, Biró Gergő
