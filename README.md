@@ -1,6 +1,6 @@
 RFT Beadandó - Nyíregyházi Egyetem - 2024 Q4
 
-A projekt megnevezése: Online társkereső
+**A projekt megnevezése:** Online társkereső
 
 Csoport: Munkások
 
