@@ -1,0 +1,63 @@
+Leírás és Követelmények
+Ebben a dokumentumban a társkereső alkalmazás projektjéhez tartozó user story-k és acceptance criteria-k találhatók. Az alábbiakban 10 user story kerül bemutatásra, amelyek a projekt alapvető funkcionalitását fedik le.
+
+User Story 1: Regisztráció
+Felhasználóként szeretnék regisztrálni az alkalmazásba, hogy létrehozhassam a profilomat.
+Elfogadási kritérium:
+- A regisztrációhoz szükséges adatok: név, e-mail cím, jelszó.
+- A rendszernek validálnia kell az e-mail cím formátumát.
+- Sikeres regisztráció után értesítés jelenik meg.
+
+User Story 2: Bejelentkezés
+Felhasználóként szeretnék bejelentkezni az alkalmazásba, hogy hozzáférjek a profilomhoz.
+Elfogadási kritérium:
+- A bejelentkezéshez helyes e-mail cím és jelszó szükséges.
+- Sikertelen bejelentkezés esetén hibaüzenet jelenjen meg.
+
+User Story 3: Profil létrehozása
+Felhasználóként szeretnék létrehozni egy részletes profilt, hogy mások megismerhessenek.
+Elfogadási kritérium:
+- A profilnak tartalmaznia kell egy rövid bemutatkozást, érdeklődési köröket és egy profilképet.
+- A rendszer validálja a profilkép fájlformátumát.
+
+User Story 4: Profil keresése
+Felhasználóként szeretnék más felhasználók között keresni, hogy találjak számomra érdekes profilokat.
+Elfogadási kritérium:
+- A keresés alapja lehet név, érdeklődési kör vagy tartózkodási hely.
+- A keresési találatok rendezhetők népszerűség vagy aktivitás alapján.
+
+User Story 5: Üzenetküldés
+Felhasználóként szeretnék üzenetet küldeni másoknak, hogy kapcsolatba léphessek velük.
+Elfogadási kritérium:
+- Az üzenetküldés csak kölcsönös érdeklődés esetén érhető el.
+- Az üzenetek valós időben jelenjenek meg.
+
+User Story 6: Biztonságos jelszó helyreállítás
+Felhasználóként szeretném helyreállítani a jelszavamat, ha elfelejtettem.
+Elfogadási kritérium:
+- A jelszó helyreállítás e-mailen keresztül történik.
+- Az új jelszónak meg kell felelnie a biztonsági követelményeknek.
+
+User Story 7: Adatvédelem beállításai
+Felhasználóként szeretném kezelni a profilom adatvédelmi beállításait, hogy eldönthessem, ki láthatja az adataimat.
+Elfogadási kritérium:
+- Beállítható legyen, hogy ki láthatja a profilomat és az aktivitásaimat.
+- Az adatvédelmi változtatások azonnal érvénybe lépnek.
+
+User Story 8: Értesítések kezelése
+Felhasználóként szeretném szabályozni, hogy milyen értesítéseket kapjak az alkalmazástól.
+Elfogadási kritérium:
+- Az értesítések típusa egyenként ki- és bekapcsolható.
+- Az értesítések azonnal szinkronizálódnak a rendszerben.
+
+User Story 9: Profil törlése
+Felhasználóként szeretném törölni a profilomat, ha már nem kívánom használni az alkalmazást.
+Elfogadási kritérium:
+- A profil törlése végleges legyen, és erről a rendszer figyelmeztessen.
+- A törölt profil adatait az alkalmazás nem tárolhatja tovább.
+
+User Story 10: Felhasználói visszajelzés küldése
+Felhasználóként szeretném visszajelzésemet elküldeni az alkalmazás fejlesztőinek.
+Elfogadási kritérium:
+- A visszajelzéshez egy egyszerű űrlap álljon rendelkezésre.
+- A visszajelzést a rendszer automatikusan továbbítsa a fejlesztői csapatnak.
